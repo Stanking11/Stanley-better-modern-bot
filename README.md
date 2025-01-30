@@ -1,4 +1,4 @@
-# STANY-TECH-MD
+# 
 
 **STANY-TECH-MD-BOT** is a powerful and versatile bot designed to streamline interactions and processes on various platforms.
 
